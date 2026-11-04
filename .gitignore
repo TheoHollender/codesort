@@ -1,0 +1,4 @@
+node_modules
+output
+data
+src/codesort/sort-sample-words.test.tsx
